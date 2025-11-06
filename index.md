@@ -44,7 +44,6 @@ You can download my full CV below:
 
 👉 [**Download CV (PDF)**](assets/Kahugia_Waweru_CV.pdf){:target="_blank"}
 
-*(Clicking this opens your CV in a new tab or downloads it depending on the browser.)*
 
 ---
 

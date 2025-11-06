@@ -7,9 +7,6 @@ author_profile: true
 ---
 
 ---
-title: "Curriculum Vitae – Kahugia Waweru"
-layout: default
----
 
 # 👨‍💻 Curriculum Vitae – Kahugia Waweru
 
@@ -21,7 +18,7 @@ Passionate engineer looking to make an impact for people and society at large. D
 ---
 
 ## 🎓 Academic Background
-**Bachelor of Science (BSc) in Software Engineering**
+**Bachelor of Science (BSc) in Software Engineering - Kisii University**
 
 ---
 
@@ -38,7 +35,16 @@ Passionate engineer looking to make an impact for people and society at large. D
 - **Networking & Technical Support**  
 - **Programming & Databases**  
 - **Monitoring & Observability**  
-- **Agile Methodologies**  
+- **Agile Methodologies**
+
+---
+
+## 📄 Download My CV
+You can download my full CV below:
+
+👉 [**Download CV (PDF)**](assets/Kahugia_Waweru_CV.pdf){:target="_blank"}
+
+*(Clicking this opens your CV in a new tab or downloads it depending on the browser.)*
 
 ---
 
